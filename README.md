@@ -13,6 +13,26 @@ A simple and responsive To-Do List web application built with **HTML**, **CSS**,
 
 ## 📸 Demo
 
-https://via.placeholder.com/600x300?text=To-Do+List+App+Demo
+https://vikash308.github.io/To-Do-app/
+
+
+## Technologies Used
+HTML5
+CSS3
+JavaScript (Vanilla)
+Font Awesome (icons)
+localStorage (for saving tasks)
+
+
+✨ Future Improvements
+Add "Enter" to save edits
+Task completion with checkboxes
+Task categories or deadlines
+Dark/light theme toggle
+
+🙌 Author
+Made with ❤️ by vikash
+
+Feel free to fork, contribute or suggest improvements!
 
 
