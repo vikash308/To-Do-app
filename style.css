@@ -72,6 +72,13 @@ i:active{
 .fa{
     margin-right: 10px;
 }
+.buttons{
+    display: flex;
+    align-items: center;
+}
+.edit-input{
+    width: 80%
+}
 
 
 
